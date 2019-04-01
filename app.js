@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const graphHttp = require('express-graphql');
 const { buildSchema }= require('graphql');
 
-
+// git test
 const app = express();
 
 const events = [];
